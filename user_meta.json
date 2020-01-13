@@ -1,0 +1,20 @@
+{
+    "url_identifier": "timezone",
+    "hero_img": "assets/hero_tutorial.png",
+    "date": "2020-01-13",
+    "duration": 15,
+    "title": "timezones",
+    "author": "cvaraprasad",
+    "description": "display timezones using here and leaflet",
+    "status": "draft",
+    "difficulty": "intermediate",
+    "platform_categories": [
+    "Web"
+    ],
+    "product_categories": [
+    "Maps"
+    ],
+    "tags": ["javascript"],
+    "content_categories": "tutorial",
+    "related": []
+    }
